@@ -43,6 +43,7 @@ Smart Phones:
 iPhone 2G
 iPhone 3GS x2
 iPhone 4 x 2
+iPhone 4s
 iPhone 5 x 2
 iPhone 5s x 2
 iPhone 6 x 3
