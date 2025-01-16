@@ -1,7 +1,7 @@
 # MyTechList
 Nothing useful, just a list of tech I own.
 
-Total: 85 Items
+Total: 86 Items
 
 PC’s
 Fujitsu Esprimo E410 E85+
@@ -18,6 +18,7 @@ Advent 5302
 Samsung N125 Plus
 HP EliteBook 8440p
 Dell Latitude E6500
+IBM Thinkpad X31
 
 Graphics Cards:
 AMD Radeon X600
