@@ -1,7 +1,7 @@
 # MyTechList
 Nothing useful, just a list of tech I own.
 
-Total: 86 Items
+Total: 85 Items
 
 PC’s
 Fujitsu Esprimo E410 E85+
@@ -19,6 +19,7 @@ Samsung N125 Plus
 HP EliteBook 8440p
 Dell Latitude E6500
 IBM Thinkpad X31
+RM Notebook Professional
 
 Graphics Cards:
 AMD Radeon X600
@@ -47,7 +48,7 @@ iPhone 4 x 2
 iPhone 4s
 iPhone 5 x 2
 iPhone 5s x 2
-iPhone 6 x 3
+iPhone 6 x 2
 iPhone 8 x 2
 iPhone 8 Plus
 iPhone SE 3 (2022)
