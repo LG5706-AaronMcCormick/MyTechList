@@ -1,7 +1,7 @@
 # MyTechList
 Nothing useful, just a list of tech I own.
 
-Total: 84 Items
+Total: 87 Items
 
 PC’s
 Fujitsu Esprimo E410 E85+
@@ -19,6 +19,11 @@ HP EliteBook 8440p
 Dell Latitude E6500
 IBM Thinkpad X31
 RM Notebook Professional
+
+VR Devices:
+Oculus Rift CV1
+~~Meta~~ Oculus Quest 2 128gb
+Samsung GearVR by Oculus
 
 Graphics Cards:
 AMD Radeon X600
