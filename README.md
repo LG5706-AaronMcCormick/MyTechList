@@ -1,12 +1,11 @@
 # MyTechList
 Nothing useful, just a list of tech I own.
 
-Total: 85 Items
+Total: 84 Items
 
 PC’s
 Fujitsu Esprimo E410 E85+
 Dell Optiplex 780
-Intel NUC DC3217IYE
 Apple Mac Mini Late 2006
 Apple iMac 27” Late 2011
 Apple iMac 21.5” Late 2015
@@ -30,6 +29,7 @@ Nvidia Quadro P620 x 2
 Nvidia Quadro P1000
 Nvidia GT 210
 Nvidia GT 310
+Nvidia GTX 1070
 
 Tablets:
 Advent Vega Tegra Note 7
@@ -47,20 +47,20 @@ iPhone 3GS x2
 iPhone 4 x 2
 iPhone 4s
 iPhone 5 x 2
-iPhone 5s x 2
+iPhone 5s
 iPhone 6 x 2
 iPhone 8 x 2
 iPhone 8 Plus
 iPhone SE 3 (2022)
 Samsung S5
+Samsung S9 Plus
 Samsung S10e
 Motorola E30
 
 Nokia:
 3310
-Lumia 520
+Lumia 520 x 2
 Lumia 650
-At least 4 More
 
 Blackberries: 1
 
@@ -68,22 +68,24 @@ Consoles:
 Game Boy
 Game Boy Advance SP x 2
 DS Lite
-Super Mario 20th Anniversary DSi XL
+Super Mario Bros. 20th Anniversary DSi XL
 New Nintendo 3DS
 Wii x 2
 Wii U
 Nintendo Switch
 Nintendo Switch OLED
-Xbox 360
-PS3
-PSP x 2
+Xbox 360 (FAT)
+Playstation 3 (FAT)
+Playstation Portable
 
 Watches:
-Apple Watch series 3
+Apple Watch series 3 38mm
+Apple Watch series 3 42mm
 
 Music Players:
 Sony Walkman (1989)
-Apple iPod 3rd Generation
+Apple iPod Classic 3rd Generation
+Apple iPod Nano 5th Generation
 
 Micro Computers:
 Raspberry Pi 5 8GB
@@ -101,4 +103,3 @@ Misc:
 Apple Pencil 1st Generation
 Apple TV HD 4th Generation
 Apple TV HD 3rd Generation
-Apple TV 1st Generation
