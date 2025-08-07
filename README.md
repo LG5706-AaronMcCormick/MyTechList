@@ -7,7 +7,8 @@ Dell Optiplex 780
 Apple Mac Mini Late 2006
 Apple iMac 27” Late 2011
 Apple iMac 21.5” Late 2015
-SAMA 5 Rig
+Intel H81 Rig
+Sama Blackfish Rig
 
 Laptops:
 Toshiba Satellite A10 2003
