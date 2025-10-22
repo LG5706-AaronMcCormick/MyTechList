@@ -1,24 +1,26 @@
 # My Tech List
 Nothing useful, just a list of tech I own.
 
-### Total: 87 Items
-
 ## PCs:
 - Fujitsu Esprimo E410 E85+
 - Dell Optiplex 780
 - Apple Mac Mini Late 2006
 - Apple iMac 27” Late 2011
 - Apple iMac 21.5” Late 2015
-- SAMA 5 Rig
+- Intel H81 Rig
+- Sama Blackfish Rig
 
 ## Laptops:
 - Toshiba Satellite A10 2003
 - Advent 5302
+- Advent 7201
 - Samsung N125 Plus
 - HP EliteBook 8440p
 - Dell Latitude E6500
 - IBM Thinkpad X31
 - RM Notebook Professional
+- Google Pixelbook i5
+- ROG G752VL
 
 ## VR Devices:
 - Oculus Rift CV1
@@ -38,7 +40,6 @@ Nothing useful, just a list of tech I own.
 
 ## Tablets:
 - Advent Vega Tegra Note 7
-- MKV Thing? Tablet
 - iPad 2nd Generation
 - iPad 4th Generation
 - iPad Air 1st Generation
@@ -54,17 +55,19 @@ Nothing useful, just a list of tech I own.
 - iPhone 5 x 2
 - iPhone 5s
 - iPhone 6 x 2
-- iPhone 8 x 2
+- iPhone 8
 - iPhone 8 Plus
 - iPhone SE 3 (2022)
+- Samsung S4
 - Samsung S5
-- Samsung S9 Plus
+- Samsung S8
 - Samsung S10e
 - Motorola E30
 
 ## Nokia:
 - 3310
-- Lumia 520 x 2
+- Lumia 520
+- Lumia 550 XL
 - Lumia 650
 
 ## Blackberries: 
@@ -76,6 +79,7 @@ Nothing useful, just a list of tech I own.
 - DS Lite
 - Super Mario Bros. 20th Anniversary DSi XL
 - New Nintendo 3DS
+- New Nintendo 2DS XL
 - Wii x 2
 - Wii U
 - Nintendo Switch
