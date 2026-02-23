@@ -9,6 +9,7 @@ Nothing useful, just a list of tech I own.
 -Intel H61 Rig
 -Sama Blackfish Rig
 -Dell Wyse 5060
+-RM ~~Education~~ Gaming PC
 
 ### Laptops:
 -Toshiba Satellite A10 2003
@@ -16,9 +17,12 @@ Nothing useful, just a list of tech I own.
 -Advent 7201
 -Samsung N125 Plus
 -HP EliteBook 8440p
+-HP Elitebook 840 G2
+-HP Envy 13 (13-D062SA)
 -Dell Latitude E6500
+-Dell Inspiron 1545
 -IBM Thinkpad X31
--RM Notebook Professional
+-RM Notebook Professional (P97TE)
 -Asus ROG G752VL
 -Huawei Matebook D14 2020 i5
 -Apple Macbook Pro 15" Mid-2009 (Core2Duo P8700, GeForce 9600M 256mb, 8GB RAM)
@@ -100,7 +104,8 @@ Apple Watch series 3 42mm
 Sony Walkman (1989)
 Apple iPod Classic 3rd Generation
 Apple iPod Nano 5th Generation
-Apple iPod Shuffle 2nd Generation (DECEASED)
+Apple iPod Shuffle 2nd Generation
+Apple iPod Nano 2nd Generation
 
 ### Micro Computers:
 Raspberry Pi 5 8GB
