@@ -24,6 +24,7 @@ Nothing useful, just a list of tech I own.
 -IBM Thinkpad X31
 -RM Notebook Professional (P97TE)
 -Asus ROG G752VL
+-Lenovo ThinkPad X260
 -Huawei Matebook D14 2020 i5
 -Apple Macbook Pro 15" Mid-2009 (Core2Duo P8700, GeForce 9600M 256mb, 8GB RAM)
 -Apple Macbook Pro 14" 2023 M2 Pro (10 Core CPU, 16 Core GPU, 16GB RAM)
