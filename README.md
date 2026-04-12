@@ -3,25 +3,19 @@ Nothing useful, just a list of tech I own.
 
 ### PC’s
 -Fujitsu Esprimo E410 E85+
--Dell Optiplex 780 (DECEASED)
 -Apple iMac 21.5” Late 2015
 -Intel H81 Rig
 -Intel H61 Rig
 -Sama Blackfish Rig
--Dell Wyse 5060
--RM ~~Education~~ Gaming PC
 
 ### Laptops:
--Toshiba Satellite A10 2003
 -Advent 5302
 -Advent 7201
--Samsung N125 Plus
 -HP EliteBook 8440p
 -HP Elitebook 840 G2
 -HP Envy 13 (13-D062SA)
 -Dell Latitude E6500
--Dell Inspiron 1545
--IBM Thinkpad X31
+-Dell Inspiron 8100
 -RM Notebook Professional (P97TE)
 -Asus ROG G752VL
 -Lenovo ThinkPad X260
@@ -36,12 +30,9 @@ Nothing useful, just a list of tech I own.
 
 ### Graphics Cards:
 -ATi Radeon X600
--AMD Radeon HD 6970M (DECEASED)
 -AMD Radeon HD 7950 3GB
 -AMD Radeon RX 470 8GB (DECEASED)
--Nvidia Quadro NVS 285 PCI
--Nvidia NVS 310
--Nvidia NVS 510
+-Nvidia NVS 510 x 2
 -Nvidia Quadro P620
 -Nvidia Quadro P1000
 -Nvidia GTX 1070
@@ -49,26 +40,29 @@ Nothing useful, just a list of tech I own.
 ### Tablets:
 -Advent Vega Tegra Note 7
 -iPad 2nd Generation
--iPad 4th Generation
--iPad Air 1st Generation
+-iPad Mini 1st Generation x 2
+-iPad Air 1st Generation x 2
 -iPad Air 2nd Generation
 -iPad Pro 12.9” 1st Generation
+-iPad 7th Generation
 
 ### iPhones:
 -iPhone 2G
 -iPhone 3GS x2
 -iPhone 4 x 2
 -iPhone 4s
--iPhone 5 x 2
--iPhone 6 x 2
+-iPhone 5 x 3
+-iPhone 6
+-iPhone 6s x 2
 -iPhone 8
 -iPhone 8 Plus
+-iPhone Xr
 -iPhone SE 3 (2022)
+-iPhone 12 Pro
 
 ### Android:
 -Samsung Galaxy S4
 -Samsung Galaxy S5
--Samsung Galaxy S8
 -Samsung Galaxy S10e
 -Samsung Galaxy S10
 -Lenovo Moto E30
@@ -82,12 +76,11 @@ Nothing useful, just a list of tech I own.
 
 ### Consoles:
 -Game Boy
--Game Boy Advance SP x 2
+-Game Boy Advance SP
 -Nintendo 64
 -DS Lite
 -Super Mario Bros. 20th Anniversary DSi XL
 -New Nintendo 3DS
--New Nintendo 2DS XL
 -Wii
 -Wii U
 -Nintendo Switch
@@ -95,6 +88,7 @@ Nothing useful, just a list of tech I own.
 -Xbox 360 Jasper
 -Xbox 360 Falcon V2
 -Playstation 3 CECHK03
+-Playstation 4 CUH1214B
 -Playstation Portable
 
 ### Watches:
@@ -106,7 +100,6 @@ Sony Walkman (1989)
 Apple iPod Classic 3rd Generation
 Apple iPod Nano 5th Generation
 Apple iPod Shuffle 2nd Generation
-Apple iPod Nano 2nd Generation
 
 ### Micro Computers:
 Raspberry Pi 5 8GB
@@ -116,7 +109,10 @@ Raspberry Pi 2B
 Arduino MEGA 2560
 Arduino Uno Revision 3
 
-### Misc:
-Apple Pencil 1st Generation
+
+### TV Boxes
 Apple TV HD 4th Generation
 Apple TV HD 3rd Generation
+T95 Max 4gb/32gb
+H96 Max Plus 4gb/32gb
+X96 Max Plus Ultra (s905x4, 4gb, 32gb)
