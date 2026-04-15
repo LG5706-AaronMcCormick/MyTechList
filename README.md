@@ -17,6 +17,7 @@ Nothing useful, just a list of tech I own.
 -Dell Latitude E6500
 -Dell Inspiron 8100
 -RM Notebook Professional (P97TE)
+-Panasonic CF-V21P
 -Asus ROG G752VL
 -Lenovo ThinkPad X260
 -Huawei Matebook D14 2020 i5
