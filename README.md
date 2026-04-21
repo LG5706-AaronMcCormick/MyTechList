@@ -3,6 +3,7 @@ Nothing useful, just a list of tech I own.
 
 ### PC’s
 -Fujitsu Esprimo E410 E85+
+-HP EliteDesk 705 G2 (A8-8650B R7)
 -Apple iMac 21.5” Late 2015
 -Intel H81 Rig
 -Intel H61 Rig
@@ -117,3 +118,7 @@ Apple TV HD 3rd Generation
 T95 Max 4gb/32gb
 H96 Max Plus 4gb/32gb
 X96 Max Plus Ultra (s905x4, 4gb, 32gb)
+
+### PDA's
+Rolodex 48K (1994)
+Psion Series 3a 512KB RAM (1993)
