@@ -37,7 +37,8 @@ Nothing useful, just a list of tech I own.
 - Nvidia NVS 510 x 2
 - Nvidia Quadro P620
 - Nvidia Quadro P1000
-- Nvidia GTX 1070  
+- MSI Aero ITX GTX 1070 OC
+- EVGA FTW3 GTX 1080 Ti
 
 ### Tablets:
 - Advent Vega Tegra Note 7
